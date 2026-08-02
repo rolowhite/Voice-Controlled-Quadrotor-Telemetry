@@ -1,0 +1,6 @@
+[console_scripts]
+leader_follower = quad_control.leader_follower_node:main
+mode_manager = quad_control.mode_manager_node:main
+telemetry_gui = quad_control.telemetry_gui_node:main
+voice_control = quad_control.voice_control_node:main
+

@@ -1,0 +1,16 @@
+/home/riasathasan/quad_ws/install/quad_description/share/quad_description/worlds/quad_world.sdf
+/home/riasathasan/quad_ws/install/quad_description/share/ament_index/resource_index/package_run_dependencies/quad_description
+/home/riasathasan/quad_ws/install/quad_description/share/ament_index/resource_index/parent_prefix_path/quad_description
+/home/riasathasan/quad_ws/install/quad_description/share/quad_description/environment/ament_prefix_path.sh
+/home/riasathasan/quad_ws/install/quad_description/share/quad_description/environment/ament_prefix_path.dsv
+/home/riasathasan/quad_ws/install/quad_description/share/quad_description/environment/path.sh
+/home/riasathasan/quad_ws/install/quad_description/share/quad_description/environment/path.dsv
+/home/riasathasan/quad_ws/install/quad_description/share/quad_description/local_setup.bash
+/home/riasathasan/quad_ws/install/quad_description/share/quad_description/local_setup.sh
+/home/riasathasan/quad_ws/install/quad_description/share/quad_description/local_setup.zsh
+/home/riasathasan/quad_ws/install/quad_description/share/quad_description/local_setup.dsv
+/home/riasathasan/quad_ws/install/quad_description/share/quad_description/package.dsv
+/home/riasathasan/quad_ws/install/quad_description/share/ament_index/resource_index/packages/quad_description
+/home/riasathasan/quad_ws/install/quad_description/share/quad_description/cmake/quad_descriptionConfig.cmake
+/home/riasathasan/quad_ws/install/quad_description/share/quad_description/cmake/quad_descriptionConfig-version.cmake
+/home/riasathasan/quad_ws/install/quad_description/share/quad_description/package.xml
