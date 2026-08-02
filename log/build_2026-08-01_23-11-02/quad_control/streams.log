@@ -1,0 +1,46 @@
+[0.631s] Invoking command in '/home/riasathasan/quad_ws/src/quad_control': PYTHONPATH=/home/riasathasan/quad_ws/build/quad_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/riasathasan/quad_ws/install/quad_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/quad_control build --build-base /home/riasathasan/quad_ws/build/quad_control/build install --record /home/riasathasan/quad_ws/build/quad_control/install.log --install-scripts $base/lib/quad_control --single-version-externally-managed install_data
+[0.792s] running egg_info
+[0.792s] creating ../../build/quad_control/quad_control.egg-info
+[0.793s] writing ../../build/quad_control/quad_control.egg-info/PKG-INFO
+[0.793s] writing dependency_links to ../../build/quad_control/quad_control.egg-info/dependency_links.txt
+[0.793s] writing entry points to ../../build/quad_control/quad_control.egg-info/entry_points.txt
+[0.794s] writing requirements to ../../build/quad_control/quad_control.egg-info/requires.txt
+[0.794s] writing top-level names to ../../build/quad_control/quad_control.egg-info/top_level.txt
+[0.794s] writing manifest file '../../build/quad_control/quad_control.egg-info/SOURCES.txt'
+[0.795s] reading manifest file '../../build/quad_control/quad_control.egg-info/SOURCES.txt'
+[0.796s] writing manifest file '../../build/quad_control/quad_control.egg-info/SOURCES.txt'
+[0.796s] running build
+[0.796s] running build_py
+[0.796s] creating /home/riasathasan/quad_ws/build/quad_control/build
+[0.797s] creating /home/riasathasan/quad_ws/build/quad_control/build/lib
+[0.797s] creating /home/riasathasan/quad_ws/build/quad_control/build/lib/quad_control
+[0.797s] copying quad_control/voice_control_node.py -> /home/riasathasan/quad_ws/build/quad_control/build/lib/quad_control
+[0.798s] copying quad_control/telemetry_gui_node.py -> /home/riasathasan/quad_ws/build/quad_control/build/lib/quad_control
+[0.798s] copying quad_control/__init__.py -> /home/riasathasan/quad_ws/build/quad_control/build/lib/quad_control
+[0.799s] copying quad_control/mode_manager_node.py -> /home/riasathasan/quad_ws/build/quad_control/build/lib/quad_control
+[0.799s] running install
+[0.799s] running install_lib
+[0.800s] creating /home/riasathasan/quad_ws/install/quad_control/lib/python3.10/site-packages/quad_control
+[0.800s] copying /home/riasathasan/quad_ws/build/quad_control/build/lib/quad_control/voice_control_node.py -> /home/riasathasan/quad_ws/install/quad_control/lib/python3.10/site-packages/quad_control
+[0.800s] copying /home/riasathasan/quad_ws/build/quad_control/build/lib/quad_control/telemetry_gui_node.py -> /home/riasathasan/quad_ws/install/quad_control/lib/python3.10/site-packages/quad_control
+[0.800s] copying /home/riasathasan/quad_ws/build/quad_control/build/lib/quad_control/__init__.py -> /home/riasathasan/quad_ws/install/quad_control/lib/python3.10/site-packages/quad_control
+[0.800s] copying /home/riasathasan/quad_ws/build/quad_control/build/lib/quad_control/mode_manager_node.py -> /home/riasathasan/quad_ws/install/quad_control/lib/python3.10/site-packages/quad_control
+[0.801s] byte-compiling /home/riasathasan/quad_ws/install/quad_control/lib/python3.10/site-packages/quad_control/voice_control_node.py to voice_control_node.cpython-310.pyc
+[0.802s] byte-compiling /home/riasathasan/quad_ws/install/quad_control/lib/python3.10/site-packages/quad_control/telemetry_gui_node.py to telemetry_gui_node.cpython-310.pyc
+[0.803s] byte-compiling /home/riasathasan/quad_ws/install/quad_control/lib/python3.10/site-packages/quad_control/__init__.py to __init__.cpython-310.pyc
+[0.803s] byte-compiling /home/riasathasan/quad_ws/install/quad_control/lib/python3.10/site-packages/quad_control/mode_manager_node.py to mode_manager_node.cpython-310.pyc
+[0.803s] running install_data
+[0.804s] creating /home/riasathasan/quad_ws/install/quad_control/share/ament_index
+[0.804s] creating /home/riasathasan/quad_ws/install/quad_control/share/ament_index/resource_index
+[0.804s] creating /home/riasathasan/quad_ws/install/quad_control/share/ament_index/resource_index/packages
+[0.805s] copying resource/quad_control -> /home/riasathasan/quad_ws/install/quad_control/share/ament_index/resource_index/packages
+[0.805s] copying package.xml -> /home/riasathasan/quad_ws/install/quad_control/share/quad_control
+[0.805s] running install_egg_info
+[0.807s] Copying ../../build/quad_control/quad_control.egg-info to /home/riasathasan/quad_ws/install/quad_control/lib/python3.10/site-packages/quad_control-0.0.0-py3.10.egg-info
+[0.808s] running install_scripts
+[0.823s] Installing leader_follower script to /home/riasathasan/quad_ws/install/quad_control/lib/quad_control
+[0.823s] Installing mode_manager script to /home/riasathasan/quad_ws/install/quad_control/lib/quad_control
+[0.824s] Installing telemetry_gui script to /home/riasathasan/quad_ws/install/quad_control/lib/quad_control
+[0.824s] Installing voice_control script to /home/riasathasan/quad_ws/install/quad_control/lib/quad_control
+[0.824s] writing list of installed files to '/home/riasathasan/quad_ws/build/quad_control/install.log'
+[0.849s] Invoked command in '/home/riasathasan/quad_ws/src/quad_control' returned '0': PYTHONPATH=/home/riasathasan/quad_ws/build/quad_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/riasathasan/quad_ws/install/quad_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/quad_control build --build-base /home/riasathasan/quad_ws/build/quad_control/build install --record /home/riasathasan/quad_ws/build/quad_control/install.log --install-scripts $base/lib/quad_control --single-version-externally-managed install_data

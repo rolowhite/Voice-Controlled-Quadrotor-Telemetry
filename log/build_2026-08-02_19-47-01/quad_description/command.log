@@ -1,0 +1,4 @@
+Invoking command in '/home/riasathasan/quad_ws/build/quad_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/riasathasan/quad_ws/build/quad_description -- -j12 -l12
+Invoked command in '/home/riasathasan/quad_ws/build/quad_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/riasathasan/quad_ws/build/quad_description -- -j12 -l12
+Invoking command in '/home/riasathasan/quad_ws/build/quad_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/riasathasan/quad_ws/build/quad_description
+Invoked command in '/home/riasathasan/quad_ws/build/quad_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/riasathasan/quad_ws/build/quad_description

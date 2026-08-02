@@ -1,0 +1,45 @@
+[0.011s] Invoking command in '/home/riasathasan/quad_ws/build/quad_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/riasathasan/quad_ws/install/sjtu_drone_control:/home/riasathasan/quad_ws/install/sjtu_drone_bringup:/home/riasathasan/quad_ws/install/quad_control:/opt/ros/humble /usr/bin/cmake /home/riasathasan/quad_ws/src/quad_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/riasathasan/quad_ws/install/quad_description
+[0.318s] -- The C compiler identification is GNU 11.4.0
+[0.854s] -- The CXX compiler identification is GNU 11.4.0
+[1.199s] -- Detecting C compiler ABI info
+[1.330s] -- Detecting C compiler ABI info - done
+[1.333s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.334s] -- Detecting C compile features
+[1.335s] -- Detecting C compile features - done
+[1.338s] -- Detecting CXX compiler ABI info
+[1.468s] -- Detecting CXX compiler ABI info - done
+[1.472s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.472s] -- Detecting CXX compile features
+[1.472s] -- Detecting CXX compile features - done
+[1.476s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.577s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.629s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.665s] -- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.720s] -- Added test 'lint_cmake' to check CMake code style
+[1.721s] -- Added test 'xmllint' to check XML markup files
+[1.723s] -- Configuring done
+[1.727s] -- Generating done
+[1.728s] -- Build files have been written to: /home/riasathasan/quad_ws/build/quad_description
+[1.732s] Invoked command in '/home/riasathasan/quad_ws/build/quad_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/riasathasan/quad_ws/install/sjtu_drone_control:/home/riasathasan/quad_ws/install/sjtu_drone_bringup:/home/riasathasan/quad_ws/install/quad_control:/opt/ros/humble /usr/bin/cmake /home/riasathasan/quad_ws/src/quad_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/riasathasan/quad_ws/install/quad_description
+[1.733s] Invoking command in '/home/riasathasan/quad_ws/build/quad_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/riasathasan/quad_ws/install/sjtu_drone_control:/home/riasathasan/quad_ws/install/sjtu_drone_bringup:/home/riasathasan/quad_ws/install/quad_control:/opt/ros/humble /usr/bin/cmake --build /home/riasathasan/quad_ws/build/quad_description -- -j12 -l12
+[1.759s] Invoked command in '/home/riasathasan/quad_ws/build/quad_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/riasathasan/quad_ws/install/sjtu_drone_control:/home/riasathasan/quad_ws/install/sjtu_drone_bringup:/home/riasathasan/quad_ws/install/quad_control:/opt/ros/humble /usr/bin/cmake --build /home/riasathasan/quad_ws/build/quad_description -- -j12 -l12
+[1.765s] Invoking command in '/home/riasathasan/quad_ws/build/quad_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/riasathasan/quad_ws/install/sjtu_drone_control:/home/riasathasan/quad_ws/install/sjtu_drone_bringup:/home/riasathasan/quad_ws/install/quad_control:/opt/ros/humble /usr/bin/cmake --install /home/riasathasan/quad_ws/build/quad_description
+[1.769s] -- Install configuration: ""
+[1.769s] -- Execute custom install script
+[1.770s] -- Symlinking: /home/riasathasan/quad_ws/install/quad_description/share/quad_description/worlds/quad_world.xml
+[1.777s] -- Symlinking: /home/riasathasan/quad_ws/install/quad_description/share/ament_index/resource_index/package_run_dependencies/quad_description
+[1.783s] -- Symlinking: /home/riasathasan/quad_ws/install/quad_description/share/ament_index/resource_index/parent_prefix_path/quad_description
+[1.789s] -- Symlinking: /home/riasathasan/quad_ws/install/quad_description/share/quad_description/environment/ament_prefix_path.sh
+[1.795s] -- Symlinking: /home/riasathasan/quad_ws/install/quad_description/share/quad_description/environment/ament_prefix_path.dsv
+[1.801s] -- Symlinking: /home/riasathasan/quad_ws/install/quad_description/share/quad_description/environment/path.sh
+[1.806s] -- Symlinking: /home/riasathasan/quad_ws/install/quad_description/share/quad_description/environment/path.dsv
+[1.812s] -- Symlinking: /home/riasathasan/quad_ws/install/quad_description/share/quad_description/local_setup.bash
+[1.817s] -- Symlinking: /home/riasathasan/quad_ws/install/quad_description/share/quad_description/local_setup.sh
+[1.823s] -- Symlinking: /home/riasathasan/quad_ws/install/quad_description/share/quad_description/local_setup.zsh
+[1.828s] -- Symlinking: /home/riasathasan/quad_ws/install/quad_description/share/quad_description/local_setup.dsv
+[1.833s] -- Symlinking: /home/riasathasan/quad_ws/install/quad_description/share/quad_description/package.dsv
+[1.839s] -- Symlinking: /home/riasathasan/quad_ws/install/quad_description/share/ament_index/resource_index/packages/quad_description
+[1.845s] -- Symlinking: /home/riasathasan/quad_ws/install/quad_description/share/quad_description/cmake/quad_descriptionConfig.cmake
+[1.850s] -- Symlinking: /home/riasathasan/quad_ws/install/quad_description/share/quad_description/cmake/quad_descriptionConfig-version.cmake
+[1.856s] -- Symlinking: /home/riasathasan/quad_ws/install/quad_description/share/quad_description/package.xml
+[1.863s] Invoked command in '/home/riasathasan/quad_ws/build/quad_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/riasathasan/quad_ws/install/sjtu_drone_control:/home/riasathasan/quad_ws/install/sjtu_drone_bringup:/home/riasathasan/quad_ws/install/quad_control:/opt/ros/humble /usr/bin/cmake --install /home/riasathasan/quad_ws/build/quad_description

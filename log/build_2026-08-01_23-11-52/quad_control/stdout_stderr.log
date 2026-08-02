@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/quad_control/quad_control.egg-info/PKG-INFO
+writing dependency_links to ../../build/quad_control/quad_control.egg-info/dependency_links.txt
+writing entry points to ../../build/quad_control/quad_control.egg-info/entry_points.txt
+writing requirements to ../../build/quad_control/quad_control.egg-info/requires.txt
+writing top-level names to ../../build/quad_control/quad_control.egg-info/top_level.txt
+reading manifest file '../../build/quad_control/quad_control.egg-info/SOURCES.txt'
+writing manifest file '../../build/quad_control/quad_control.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/riasathasan/quad_ws/install/quad_control/lib/python3.10/site-packages/quad_control-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/quad_control/quad_control.egg-info to /home/riasathasan/quad_ws/install/quad_control/lib/python3.10/site-packages/quad_control-0.0.0-py3.10.egg-info
+running install_scripts
+Installing leader_follower script to /home/riasathasan/quad_ws/install/quad_control/lib/quad_control
+Installing mode_manager script to /home/riasathasan/quad_ws/install/quad_control/lib/quad_control
+Installing telemetry_gui script to /home/riasathasan/quad_ws/install/quad_control/lib/quad_control
+Installing voice_control script to /home/riasathasan/quad_ws/install/quad_control/lib/quad_control
+writing list of installed files to '/home/riasathasan/quad_ws/build/quad_control/install.log'

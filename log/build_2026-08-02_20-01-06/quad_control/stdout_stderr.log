@@ -1,0 +1,20 @@
+running develop
+running egg_info
+writing quad_control.egg-info/PKG-INFO
+writing dependency_links to quad_control.egg-info/dependency_links.txt
+writing entry points to quad_control.egg-info/entry_points.txt
+writing requirements to quad_control.egg-info/requires.txt
+writing top-level names to quad_control.egg-info/top_level.txt
+reading manifest file 'quad_control.egg-info/SOURCES.txt'
+writing manifest file 'quad_control.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/riasathasan/quad_ws/install/quad_control/lib/python3.10/site-packages/quad-control.egg-link (link to .)
+Installing leader_follower script to /home/riasathasan/quad_ws/install/quad_control/lib/quad_control
+Installing mode_manager script to /home/riasathasan/quad_ws/install/quad_control/lib/quad_control
+Installing telemetry_gui script to /home/riasathasan/quad_ws/install/quad_control/lib/quad_control
+Installing voice_control script to /home/riasathasan/quad_ws/install/quad_control/lib/quad_control
+
+Installed /home/riasathasan/quad_ws/build/quad_control
+running symlink_data
+symbolically linking /home/riasathasan/quad_ws/build/quad_control/resource/quad_control -> /home/riasathasan/quad_ws/install/quad_control/share/ament_index/resource_index/packages
+symbolically linking /home/riasathasan/quad_ws/build/quad_control/package.xml -> /home/riasathasan/quad_ws/install/quad_control/share/quad_control
